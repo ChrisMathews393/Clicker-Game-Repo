@@ -27506,11 +27506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rocit\\OneDrive\\Documents\\Clicker Game Repo\\MonoGame Clicker Shared\\Game2\\Game2.csproj",
-      "projectName": "Game2",
-      "projectPath": "C:\\Users\\rocit\\OneDrive\\Documents\\Clicker Game Repo\\MonoGame Clicker Shared\\Game2\\Game2.csproj",
+      "projectUniqueName": "C:\\Users\\rocit\\OneDrive\\Documents\\Clicker Game Repo\\MonoGame Clicker\\Game2\\Clicker Windows.csproj",
+      "projectName": "Clicker Windows",
+      "projectPath": "C:\\Users\\rocit\\OneDrive\\Documents\\Clicker Game Repo\\MonoGame Clicker\\Game2\\Clicker Windows.csproj",
       "packagesPath": "C:\\Users\\rocit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rocit\\OneDrive\\Documents\\Clicker Game Repo\\MonoGame Clicker Shared\\Game2\\obj\\",
+      "outputPath": "C:\\Users\\rocit\\OneDrive\\Documents\\Clicker Game Repo\\MonoGame Clicker\\Game2\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
